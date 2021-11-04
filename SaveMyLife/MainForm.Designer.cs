@@ -72,7 +72,7 @@
             this.Controls.Add(this.startButton);
             this.Controls.Add(this.calibrateButton);
             this.Name = "MainForm";
-            this.Text = "SaveMyLife 0.0.1 - PoE Utility Bot";
+            this.Text = "SaveMyLife 0.0.1.0 - PoE Utility Bot";
             this.ResumeLayout(false);
 
         }
