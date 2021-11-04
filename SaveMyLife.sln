@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveMyLife", "SaveMyLife\SaveMyLife.csproj", "{D731A0E2-ACF6-4F23-8702-DF901468999F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D731A0E2-ACF6-4F23-8702-DF901468999F}.Debug|x64.ActiveCfg = Debug|x64
+		{D731A0E2-ACF6-4F23-8702-DF901468999F}.Debug|x64.Build.0 = Debug|x64
+		{D731A0E2-ACF6-4F23-8702-DF901468999F}.Release|x64.ActiveCfg = Release|x64
+		{D731A0E2-ACF6-4F23-8702-DF901468999F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84183C19-8738-4E13-B5AB-1B5F73CE6E92}
+	EndGlobalSection
+EndGlobal
