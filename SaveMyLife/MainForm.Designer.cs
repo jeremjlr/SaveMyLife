@@ -35,7 +35,7 @@
             // 
             // calibrateButton
             // 
-            this.calibrateButton.Location = new System.Drawing.Point(12, 12);
+            this.calibrateButton.Location = new System.Drawing.Point(38, 12);
             this.calibrateButton.Name = "calibrateButton";
             this.calibrateButton.Size = new System.Drawing.Size(130, 39);
             this.calibrateButton.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             // startButton
             // 
-            this.startButton.Location = new System.Drawing.Point(12, 103);
+            this.startButton.Location = new System.Drawing.Point(12, 71);
             this.startButton.Name = "startButton";
             this.startButton.Size = new System.Drawing.Size(80, 42);
             this.startButton.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // stopButton
             // 
-            this.stopButton.Location = new System.Drawing.Point(98, 103);
+            this.stopButton.Location = new System.Drawing.Point(115, 71);
             this.stopButton.Name = "stopButton";
             this.stopButton.Size = new System.Drawing.Size(80, 42);
             this.stopButton.TabIndex = 2;
@@ -67,7 +67,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(207, 128);
             this.Controls.Add(this.stopButton);
             this.Controls.Add(this.startButton);
             this.Controls.Add(this.calibrateButton);
