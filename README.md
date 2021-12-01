@@ -13,5 +13,5 @@ It's in a very early state, mainly did it for personal use.
 SaveMyLife is available under the AGPL-3.0 License.<br/>
 Libraries used by SaveMyLife :<br/>
 <ul>
-  <li>EmguCV under the GPL3 License, see https://www.emgu.com/wiki/index.php/Licensing:.</li>
+  <li>EmguCV under the GPL3 License, see <a href="https://www.emgu.com/wiki/index.php/Licensing:">https://www.emgu.com/wiki/index.php/Licensing:</a>.</li>
 </ul>
