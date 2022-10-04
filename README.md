@@ -1,4 +1,4 @@
-# SaveMyLife (v0.0.1.0)
+# SaveMyLife (v0.0.1.0) - DISCONTINUED
 A small PoE Utility Bot, mainly using potions automatically.
 It's in a very early state, mainly did it for personal use.
 
